@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alekii
 - 👀 I’m interested in enterprise application development
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m currently learning Go and AWS 
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 email me at alexmuriithise@gmail.com
 
