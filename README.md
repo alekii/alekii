@@ -42,9 +42,12 @@ A backend platform for payment initiation, provider integrations, transaction pr
 A reconciliation engine for comparing transactions across financial systems, matching records, identifying exceptions, tracking settlements, and producing reconciliation reports.
 
 ### Alensi Insure
-**Insurance Management Platform**
 
-A backend system covering customers, insurance policies, coverage, premiums, claims, approvals, settlements, renewals, and insurance workflows.
+**Intelligent Insurance Policy & Claims Management System**
+
+An intelligent insurance platform that combines policy and claims management with AI-assisted risk assessment, claims triage, anomaly detection, document processing, coverage validation, and decision support.
+
+The platform manages customers, policies, coverage, premiums, claims, approvals, settlements, renewals, and workflows while providing explainable, auditable intelligence to support insurance teams.
 
 ### Alensi Identity
 **Identity & Access Management Platform**
