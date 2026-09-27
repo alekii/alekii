@@ -16,17 +16,17 @@ My professional experience includes fintech and lending platforms, payment provi
 
 **Data:** PostgreSQL, MySQL, MongoDB, Redis
 
-**Messaging & Distributed Systems:** RabbitMQ,Kafka, Event-driven architecture, Asynchronous processing
+**Messaging & Distributed Systems:** RabbitMQ, Kafka, Event-driven architecture, Asynchronous processing
 
 **Cloud & Infrastructure:** AWS, Docker, Kubernetes, CI/CD • GitHub Actions
 
-**Platform Engineering:** Terraform • Helm • Infrastructure as Code • Developer Platforms • Deployment Automation
+**Platform Engineering:** Terraform, Helm, Infrastructure as Code, Developer Platforms, Deployment Automation
 
-**Observability & Telemetry:** OpenTelemetry • Prometheus • Grafana • Loki • Distributed Tracing • Metrics • Logs • Alerts
+**Observability & Telemetry:** OpenTelemetry, Prometheus, Grafana, Loki, Distributed Tracing, Metrics, Logs, Alerts
 
 **Security:** Keycloak, OAuth2, OpenID Connect, JWT, RBAC
 
-**Testing & Automation:** JUnit • Mockito • Selenium • RPA • API Testing
+**Testing & Automation:** JUnit, Mockito, Integration Testing, Cucumber, Selenium, RPA, API Testing
 
 ---
 ## Featured Projects
