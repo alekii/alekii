@@ -67,7 +67,7 @@ A configurable workflow engine supporting:
 ### Alensi Observe
 **Observability & Monitoring Platform**
 
-A platform for collecting metrics, logs, traces, alerts, dashboards, and system health signals to improve visibility and reliability.
+A cloud-native platform engineering project focused on application observability, infrastructure automation, deployment workflows, and operational reliability..
 
 ---
 
@@ -81,10 +81,12 @@ A platform for collecting metrics, logs, traces, alerts, dashboards, and system 
 - Database performance
 - Event-driven architectures
 - Cloud infrastructure
+- Platform engineering
+- Observability
 - System reliability
 - Security and identity
 - Test automation
-- Business process automation
+- Business process automation 
 
 ---
 
