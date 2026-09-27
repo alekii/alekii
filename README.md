@@ -16,11 +16,13 @@ My professional experience includes fintech and lending platforms, payment provi
 
 **Data:** PostgreSQL, MySQL, MongoDB, Redis
 
-**Messaging & Distributed Systems:** RabbitMQ, Event-driven architecture, Asynchronous processing
+**Messaging & Distributed Systems:** RabbitMQ,Kafka, Event-driven architecture, Asynchronous processing
 
 **Cloud & Infrastructure:** AWS, Docker, Kubernetes, CI/CD • GitHub Actions
 
 **Security:** Keycloak, OAuth2, OpenID Connect, JWT, RBAC
+
+**Testing & Automation:** JUnit • Mockito • Selenium • RPA • API Testing
 
 ---
 ## Featured Projects
@@ -76,6 +78,7 @@ A configurable workflow engine supporting:
 - Cloud infrastructure
 - System reliability
 - Security and identity
+- Test automation
 - Business process automation
 
 ---
