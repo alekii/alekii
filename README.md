@@ -4,7 +4,7 @@
 
 I build reliable backend systems, APIs, payment integrations, and financial technology.
 
-I'm a Backend Engineer with 4+ years of experience building and operating production systems, with a focus on Java, Spring Boot, APIs, distributed systems, payments, databases, cloud infrastructure, and system integrations.
+I'm a Backend Engineer with 4+ years of experience building and operating production systems, with a focus on Java, Spring Boot, APIs, distributed systems, payments, databases, cloud infrastructure, and backend reliability.
 
 My professional experience includes fintech and lending platforms, payment providers, transaction processing, reconciliation, authentication, and production engineering.
 
@@ -63,6 +63,11 @@ A configurable workflow engine supporting:
 - Scheduled actions
 - Event-driven processing
 - Workflow versioning
+
+### Alensi Observe
+**Observability & Monitoring Platform**
+
+A platform for collecting metrics, logs, traces, alerts, dashboards, and system health signals to improve visibility and reliability.
 
 ---
 
