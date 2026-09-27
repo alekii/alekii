@@ -23,10 +23,7 @@ My professional experience includes fintech and lending platforms, payment provi
 **Security:** Keycloak, OAuth2, OpenID Connect, JWT, RBAC
 
 ---
-
-## Alensi
-
-I'm building Alensi as a collection of production-quality backend systems exploring real-world problems in payments, financial technology, security, and business automation.
+## Featured Projects
 
 ### Alensi Pay
 **Payment Processing Platform**
