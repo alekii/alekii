@@ -1,11 +1,100 @@
 # Hi, I'm Alex M 👋
 
-Backend Engineer | Java • Spring Boot • Distributed Systems • Payments
+### Backend Engineer | Java • Spring Boot • Distributed Systems • Payments
 
-I build production backend systems, payment integrations and financial technology.
+I build reliable backend systems, APIs, payment integrations, and financial technology.
 
-Currently working with: Java, Spring Boot, PostgreSQL, MongoDB, Redis, RabbitMQ, AWS, Docker & Kubernetes.
+I'm a Backend Engineer with 4+ years of experience building and operating production systems, with a focus on Java, Spring Boot, APIs, distributed systems, payments, databases, cloud infrastructure, and system integrations.
 
-Featured Projects
+My professional experience includes fintech and lending platforms, payment providers, transaction processing, reconciliation, authentication, and production engineering.
 
-[Alensi Flow](https://github.com/alekii/alensi-flow) · [Alensi Identity](https://github.com/alekii/alensi-identity) · [Alensi Insure](https://github.com/alekii/alensi-Insure) · [Alesni Pay](https://github.com/alekii/alensi-pay) · [Alensi Recon](https://github.com/alekii/alensi-recon)
+---
+
+## What I Work With
+
+**Backend**
+
+Java • Spring Boot • REST APIs • Microservices • JPA/Hibernate
+
+**Data**
+
+PostgreSQL • MySQL • MongoDB • Redis
+
+**Messaging & Distributed Systems**
+
+RabbitMQ • Event-driven architecture • Asynchronous processing
+
+**Cloud & Infrastructure**
+
+AWS • Docker • Kubernetes • CI/CD • GitHub Actions
+
+**Security**
+
+Keycloak • OAuth2 • OpenID Connect • JWT • RBAC
+
+---
+
+## Alensi
+
+I'm building Alensi as a collection of production-quality backend systems exploring real-world problems in payments, financial technology, security, and business automation.
+
+### Alensi Pay
+**Payment Processing Platform**
+
+A backend platform for payment initiation, provider integrations, transaction processing, callbacks, webhooks, retries, idempotency, refunds, and payment lifecycle management.
+
+### Alensi Recon
+**Financial Transaction Reconciliation Platform**
+
+A reconciliation engine for comparing transactions across financial systems, matching records, identifying exceptions, tracking settlements, and producing reconciliation reports.
+
+### Alensi Insure
+**Insurance Management Platform**
+
+A backend system covering customers, insurance policies, coverage, premiums, claims, approvals, settlements, renewals, and insurance workflows.
+
+### Alensi Identity
+**Identity & Access Management Platform**
+
+A secure identity platform exploring authentication, authorization, OAuth2/OIDC, JWT, RBAC, MFA, passkeys, and service-to-service security.
+
+### Alensi Flow
+**Business Workflow & Automation Platform**
+
+A configurable workflow engine supporting:
+
+- Configurable workflows
+- State machines
+- Maker-checker
+- Approval chains
+- Role-based actions
+- Task management
+- Notifications
+- Audit trails
+- Scheduled actions
+- Event-driven processing
+- Workflow versioning
+
+---
+
+## Engineering Interests
+
+- Backend architecture
+- Distributed systems
+- Financial technology
+- Payment systems
+- API design and integrations
+- Database performance
+- Event-driven architectures
+- Cloud infrastructure
+- System reliability
+- Security and identity
+- Business process automation
+
+---
+
+## Contact
+
+I'm open to interesting backend engineering projects, technical collaborations, and opportunities to build reliable systems that solve real business problems.
+
+GitHub: [@alekii](https://github.com/alekii)
