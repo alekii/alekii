@@ -1,4 +1,4 @@
-# Hi, I'm Alex M 👋
+# Hi, I'm Alex Muriithi 👋
 
 ### Backend Engineer | Java • Spring Boot • Distributed Systems • Payments
 
