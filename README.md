@@ -1,12 +1,11 @@
-# Hi, I'm Alekii 👋
+# Hi, I'm Alex M 👋
 
-**Java is my primary language — I use it 99.99% of the time.** ☕
+Backend Engineer | Java • Spring Boot • Distributed Systems • Payments
 
-I also contribute to private repositories. GitHub's contribution graph can show those contributions as anonymized activity when I enable **Private contributions** in my profile's **Contribution settings**; private repository names and code stay private.
+I build production backend systems, payment integrations and financial technology.
 
-### Coding activity
+Currently working with: Java, Spring Boot, PostgreSQL, MongoDB, Redis, RabbitMQ, AWS, Docker & Kubernetes.
 
-If enabled, the language breakdown below is measured from editor activity (including private projects where tracking is allowed). It may differ from the 99.99% personal estimate above. No private repository names or source code are published here.
+Featured Projects
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[Project 1] · [Project 2] · [Project 3] · [Project 4] · [Project 5]
