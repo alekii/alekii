@@ -12,25 +12,15 @@ My professional experience includes fintech and lending platforms, payment provi
 
 ## What I Work With
 
-**Backend**
+**Backend:** Java, Spring Boot, Python, Node JS, REST APIs, Microservices, JPA/Hibernate
 
-Java • Spring Boot • REST APIs • Microservices • JPA/Hibernate
+**Data:** PostgreSQL, MySQL, MongoDB, Redis
 
-**Data**
+**Messaging & Distributed Systems:** RabbitMQ, Event-driven architecture, Asynchronous processing
 
-PostgreSQL • MySQL • MongoDB • Redis
+**Cloud & Infrastructure:** AWS, Docker, Kubernetes, CI/CD • GitHub Actions
 
-**Messaging & Distributed Systems**
-
-RabbitMQ • Event-driven architecture • Asynchronous processing
-
-**Cloud & Infrastructure**
-
-AWS • Docker • Kubernetes • CI/CD • GitHub Actions
-
-**Security**
-
-Keycloak • OAuth2 • OpenID Connect • JWT • RBAC
+**Security:** Keycloak, OAuth2, OpenID Connect, JWT, RBAC
 
 ---
 
