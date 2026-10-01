@@ -12,7 +12,7 @@ My professional experience includes fintech and lending platforms, payment provi
 
 ## What I Work With
 
-**Backend:** Java, Spring Boot, Go, Python, Node JS, REST APIs, Microservices, JPA/Hibernate
+**Backend:** Java, Spring Boot, Go, Python, Node JS, REST APIs, Microservices
 
 **Data:** PostgreSQL, MySQL, MongoDB, Redis
 
